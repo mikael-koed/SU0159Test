@@ -1,1 +1,1 @@
-print "Hej verden"
+print "Hej verden (danish)"
